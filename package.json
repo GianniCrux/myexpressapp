@@ -1,0 +1,22 @@
+{
+  "name": "myexpressapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GianniCrux/myexpressapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GianniCrux/myexpressapp/issues"
+  },
+  "homepage": "https://github.com/GianniCrux/myexpressapp#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
